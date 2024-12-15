@@ -18,7 +18,7 @@
 ## Запуск проекта
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/DyahDeme/SimpleBankingApi.git
+   git clone https://github.com/DyahDemetra/SimpleBankingApi.git
    cd SimpleBankingApi
    ```
 
